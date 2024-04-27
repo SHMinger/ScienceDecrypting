@@ -44,7 +44,7 @@ NotImplementedError: only Standard PDF encryption handler is available
 
 即需要将将依赖软件包修改版本号`pypdf2 == 1.26.0`, 并将之前修改的参数改回，即能正常操作。
 
-![image-20230421165044247](/Users/hushuming/Library/Application Support/typora-user-images/image-20230421165044247.png)
+![](http://www.shminger.cn:3380/images/2024/04/27/image-20230421165044247.png)
 
 __reference__：
 
